@@ -1,5 +1,6 @@
 ﻿using OCP.ISP;
 
-IShape2D circle = new Circle {Radius = 5};
+IShapes3D sphere = new Sphere {Radius = 5};
 
-System.Console.WriteLine($"The Area of the circle is {circle.Area()}");
+System.Console.WriteLine($"The SurfaceArea is {sphere.SurfaceArea()}");
+System.Console.WriteLine($"The volume is {sphere.Volume()}");
