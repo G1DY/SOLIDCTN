@@ -12,3 +12,4 @@ C:\Users\user\OneDrive\Desktop\SOLIDCTN\OCP\obj\Debug\net8.0\refint\OCP.dll
 C:\Users\user\OneDrive\Desktop\SOLIDCTN\OCP\obj\Debug\net8.0\OCP.pdb
 C:\Users\user\OneDrive\Desktop\SOLIDCTN\OCP\obj\Debug\net8.0\OCP.genruntimeconfig.cache
 C:\Users\user\OneDrive\Desktop\SOLIDCTN\OCP\obj\Debug\net8.0\ref\OCP.dll
+C:\Users\user\OneDrive\Desktop\SOLIDCTN\OCP\obj\Debug\net8.0\OCP.sourcelink.json

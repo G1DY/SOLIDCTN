@@ -1,7 +1,5 @@
-﻿using OCP;
+﻿using OCP.ISP;
 
-Shapes rect = new Rectangle{Height = 5, Width = 4};
-System.Console.WriteLine($"The area of the rectangle is {rect.CalculateArea()}");
+IShape2D circle = new Circle {Radius = 5};
 
-Shapes square = new Square{SideLength = 5};
-System.Console.WriteLine($"The area of the square is {square.CalculateArea()}");
+System.Console.WriteLine($"The Area of the circle is {circle.Area()}");
