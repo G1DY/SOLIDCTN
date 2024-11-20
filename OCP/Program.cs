@@ -1,6 +1,5 @@
-﻿using OCP.ISP;
+﻿using OCP.DIP;
 
-IShapes3D sphere = new Sphere {Radius = 5};
+var car = new Car(new Engine());
 
-System.Console.WriteLine($"The SurfaceArea is {sphere.SurfaceArea()}");
-System.Console.WriteLine($"The volume is {sphere.Volume()}");
+car.startCar();
